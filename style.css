@@ -1,0 +1,31 @@
+html{
+    width: 100%;
+    font-family: arial;
+}
+body{
+    background: url("img/bg.jpg");
+    color: white;
+}
+title{
+    width: 100%;
+}
+.title h1{
+    text-align: center;
+    color: greenyellow;
+    font-size: 100px;
+    margin-top: 20%;
+    font-style: italic;
+}
+.title a, a:visited{
+    text-decoration: none;
+    color: greenyellow;
+}
+.title a:hover{
+    text-decoration: underline;
+}
+.dancing img{
+    position: static;
+    width: 150px;
+    height: 150px;
+    margin-left: 10%;
+}

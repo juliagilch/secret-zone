@@ -1,0 +1,28 @@
+html{
+    width: 100%;
+    font-family: arial;
+}
+body{
+    background: url("img/background\ 3.jpeg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body{
+    width: 100%;
+}
+body {
+    text-align: center;
+    color: greenyellow;
+    font-size: 40px;
+    margin-top: 20%;
+    font-style: italic;
+}
+body a, a:visited{
+    text-decoration: none;
+    color: greenyellow;
+}
+.body a:hover{
+    text-decoration: underline;
+}
